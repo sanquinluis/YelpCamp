@@ -4,6 +4,9 @@ var bodyParser = require("body-parser");
 var campgrounds = [
 		{name: "Salmon Creek", image: "https://farm9.staticflickr.com/8002/7299820870_e78782c078.jpg"},
 		{name: "Granite Hill ", image: "https://farm4.staticflickr.com/3926/14857275017_9932324256.jpg"},
+		{name: "Mountain Goat's", image: "https://farm6.staticflickr.com/5098/5496185186_d7d7fed22a.jpg"},
+		{name: "Salmon Creek", image: "https://farm9.staticflickr.com/8002/7299820870_e78782c078.jpg"},
+		{name: "Granite Hill ", image: "https://farm4.staticflickr.com/3926/14857275017_9932324256.jpg"},
 		{name: "Mountain Goat's", image: "https://farm6.staticflickr.com/5098/5496185186_d7d7fed22a.jpg"}
 	]
 
